@@ -1,0 +1,21 @@
+{"Time":"2022-04-25T17:34:48.919405+05:30","Action":"run","Package":"exmaple.com/Arithmetic","Test":"TestAdd"}
+{"Time":"2022-04-25T17:34:48.920438+05:30","Action":"output","Package":"exmaple.com/Arithmetic","Test":"TestAdd","Output":"=== RUN   TestAdd\n"}
+{"Time":"2022-04-25T17:34:48.92073+05:30","Action":"output","Package":"exmaple.com/Arithmetic","Test":"TestAdd","Output":"    operations_test.go:16: Add(5, 6) Success. Expected 11, got 11\n"}
+{"Time":"2022-04-25T17:34:48.920751+05:30","Action":"output","Package":"exmaple.com/Arithmetic","Test":"TestAdd","Output":"--- PASS: TestAdd (0.00s)\n"}
+{"Time":"2022-04-25T17:34:48.920765+05:30","Action":"pass","Package":"exmaple.com/Arithmetic","Test":"TestAdd","Elapsed":0}
+{"Time":"2022-04-25T17:34:48.920777+05:30","Action":"run","Package":"exmaple.com/Arithmetic","Test":"TestSub"}
+{"Time":"2022-04-25T17:34:48.920782+05:30","Action":"output","Package":"exmaple.com/Arithmetic","Test":"TestSub","Output":"=== RUN   TestSub\n"}
+{"Time":"2022-04-25T17:34:48.920789+05:30","Action":"output","Package":"exmaple.com/Arithmetic","Test":"TestSub","Output":"    operations_test.go:27: Sub(6, 5) Success. Expected 1, got 1\n"}
+{"Time":"2022-04-25T17:34:48.920795+05:30","Action":"output","Package":"exmaple.com/Arithmetic","Test":"TestSub","Output":"--- PASS: TestSub (0.00s)\n"}
+{"Time":"2022-04-25T17:34:48.920799+05:30","Action":"pass","Package":"exmaple.com/Arithmetic","Test":"TestSub","Elapsed":0}
+{"Time":"2022-04-25T17:34:48.920804+05:30","Action":"run","Package":"exmaple.com/Arithmetic","Test":"TestMultipleAdd"}
+{"Time":"2022-04-25T17:34:48.920808+05:30","Action":"output","Package":"exmaple.com/Arithmetic","Test":"TestMultipleAdd","Output":"=== RUN   TestMultipleAdd\n"}
+{"Time":"2022-04-25T17:34:48.920812+05:30","Action":"output","Package":"exmaple.com/Arithmetic","Test":"TestMultipleAdd","Output":"    operations_test.go:44: Add(1, 2) Success. Expected 3, got 3\n"}
+{"Time":"2022-04-25T17:34:48.920819+05:30","Action":"output","Package":"exmaple.com/Arithmetic","Test":"TestMultipleAdd","Output":"    operations_test.go:44: Add(5, 7) Success. Expected 12, got 12\n"}
+{"Time":"2022-04-25T17:34:48.920824+05:30","Action":"output","Package":"exmaple.com/Arithmetic","Test":"TestMultipleAdd","Output":"    operations_test.go:44: Add(5, -2) Success. Expected 3, got 3\n"}
+{"Time":"2022-04-25T17:34:48.92083+05:30","Action":"output","Package":"exmaple.com/Arithmetic","Test":"TestMultipleAdd","Output":"    operations_test.go:44: Add(-2, -4) Success. Expected -6, got -6\n"}
+{"Time":"2022-04-25T17:34:48.920839+05:30","Action":"output","Package":"exmaple.com/Arithmetic","Test":"TestMultipleAdd","Output":"--- PASS: TestMultipleAdd (0.00s)\n"}
+{"Time":"2022-04-25T17:34:48.920847+05:30","Action":"pass","Package":"exmaple.com/Arithmetic","Test":"TestMultipleAdd","Elapsed":0}
+{"Time":"2022-04-25T17:34:48.920852+05:30","Action":"output","Package":"exmaple.com/Arithmetic","Output":"PASS\n"}
+{"Time":"2022-04-25T17:34:48.921131+05:30","Action":"output","Package":"exmaple.com/Arithmetic","Output":"ok  \texmaple.com/Arithmetic\t0.768s\n"}
+{"Time":"2022-04-25T17:34:48.92114+05:30","Action":"pass","Package":"exmaple.com/Arithmetic","Elapsed":0.768}
